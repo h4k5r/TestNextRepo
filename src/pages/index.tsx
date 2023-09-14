@@ -1,7 +1,7 @@
 import Dropdown from "@/components/Dropdown";
 import {useState} from "react";
 import TextBox from "@/components/TextBox";
-import {combinedType, enteredText, option} from "@/Types";
+import {combinedType} from "@/Types";
 
 
 export default function Home() {
